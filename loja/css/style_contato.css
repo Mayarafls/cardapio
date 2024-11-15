@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(244, 206, 129);
+}
+img {
+    width: 50px;
+}
+.container {
+    display: flex;
+}
+img {
+    margin-right: 5px;
+    margin-top: 10px;
+}

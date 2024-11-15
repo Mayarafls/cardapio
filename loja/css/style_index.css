@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(244, 206, 129);
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+img {
+    margin: 40px;
+}
+nav {
+    font-size: 25px;
+}
